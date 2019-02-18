@@ -1,4 +1,4 @@
-(module TPS61222DCKR (layer F.Cu) (tedit 5C699C63)
+(module TPS61222DCKR (layer F.Cu) (tedit 5C6B0DA9)
   (fp_text reference REF** (at -0.75692 -1.61544) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -120,4 +120,9 @@
   (pad 1 smd rect (at -0.949998 -0.650001 90) (size 0.196799 0.646801) (layers F.Paste))
   (pad 1 smd rect (at -0.949998 -0.650001 90) (size 0.501599 0.951601) (layers F.Mask))
   (pad 1 smd rect (at -0.949998 -0.650001 90) (size 0.399999 0.850001) (layers F.Cu))
+  (model ${IPHYSI3DMOD}/1xxxIPHYSI_3dshapes/TPS61222DCK0006A.stp
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

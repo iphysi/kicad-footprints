@@ -1,4 +1,4 @@
-(module SharpMemoryLCD_Diag27 (layer F.Cu) (tedit 5C697EA0)
+(module SharpMemoryLCD_Diag27 (layer F.Cu) (tedit 5C6B0D7F)
   (fp_text reference REF** (at -28.1178 -24.57704) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,4 +1,4 @@
-(module LOGO (layer F.Cu) (tedit 5C699B42)
+(module LOGO (layer F.Cu) (tedit 5C6B0BED)
   (fp_text reference G*** (at -3.40868 -3.69316) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
