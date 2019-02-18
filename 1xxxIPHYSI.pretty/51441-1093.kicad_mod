@@ -1,4 +1,4 @@
-(module 51441-1093 (layer F.Cu) (tedit 5C661CC0)
+(module 51441-1093 (layer F.Cu) (tedit 5C6AAFB7)
   (fp_text reference REF** (at 0.04064 1.1684) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
