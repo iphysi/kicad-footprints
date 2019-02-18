@@ -1,4 +1,4 @@
-(module SAMTEC-TFM-107-02-X-D (layer F.Cu) (tedit 5C6B0D68)
+(module SAMTEC-TFM-107-02-X-D (layer F.Cu) (tedit 5C6B1CDF)
   (descr "translated Allegro footprint")
   (attr smd)
   (fp_text reference JTAG (at -8.49082 4.84613 unlocked) (layer F.SilkS)
@@ -173,8 +173,8 @@
   (pad 2 smd rect (at -3.81 -1.71399) (size 0.740004 2.92001) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -3.81 1.71399) (size 0.740004 2.92001) (layers F.Cu F.Paste F.Mask))
   (model ${IPHYSI3DMOD}/1xxxIPHYSI_3dshapes/TFM-107-02-L-DH-TR.stp
-    (at (xyz 0 0 0))
+    (offset (xyz 0 -1.269999980926514 3.174999952316284))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -180 0 0))
   )
 )
