@@ -1,4 +1,4 @@
-(module OMAP-L138_ZCE_361 (layer F.Cu) (tedit 5C6B0D37)
+(module OMAP-L138_ZCE_361 (layer F.Cu) (tedit 5D18F4C4)
   (fp_text reference REF** (at -3.81 -7.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -391,4 +391,9 @@
   (pad W17 smd circle (at 4.55 5.849999) (size 0.3556 0.3556) (layers F.Cu))
   (pad W18 smd circle (at 5.199999 5.849999) (size 0.3556 0.3556) (layers F.Cu))
   (pad W19 smd circle (at 5.849999 5.849999) (size 0.3556 0.3556) (layers F.Cu))
+  (model ${IPHYSI3DMOD}/1xxxIPHYSI_3dshapes/pbga624_p1-27_l33_w33.stp
+    (at (xyz 0 0 0))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz -90 0 0))
+  )
 )
